@@ -10,7 +10,7 @@ https://github.com/proj4js/mgrs
 
 Conclusion: does not return bounding box for 100km regions. Instead, returns same lat,lng twice
 
-Demonstration: (done, TODO run parcel 
+Demonstration: (done, TODO run parcel build and pass correct final url)
 
 ---
 
