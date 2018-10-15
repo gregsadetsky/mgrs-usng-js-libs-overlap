@@ -4,6 +4,8 @@ Demonstrate that JavaScript libraries which are supposed to convert MGRS / USNG 
 
 As one specific example, 16RGV and 17RKQ's boundaries returned by the libraries below tend to overlap.
 
+See the reference grid [here](usng-grid-reference.jpg).
+
 ### Tested
 
 https://github.com/proj4js/mgrs
