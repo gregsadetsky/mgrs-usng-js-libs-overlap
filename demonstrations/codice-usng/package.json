@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "libs": "^0.1.2",
+    "usng": "^0.1.2",
+    "usng.js": "file:libs/usng.js/"
+  }
+}

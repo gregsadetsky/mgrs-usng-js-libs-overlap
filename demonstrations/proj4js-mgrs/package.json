@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mgrs": "file:libs/mgrs"
+  }
+}
