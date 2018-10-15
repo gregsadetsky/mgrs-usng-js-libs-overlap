@@ -19,6 +19,8 @@ https://github.com/codice/usng.js
 Conclusion: Overlap. Example: 16RGV & 16RKQ
 
 Demonstration: [here](https://gregsadetsky.github.io/mgrs-usng-js-libs-overlap/demonstrations/codice-usng/dist/).
+- Red (overlapping) cells are coming from `usng.js` calculations.
+- Green cells are coming from the [reference 16R / 17R shapefiles](http://earth-info.nga.mil/GandG/coordsys/grids/mgrs_100km_dloads.html) from the NGA.
 
 ### TODO
 
